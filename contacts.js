@@ -1,7 +1,6 @@
 const fs = require("fs/promises");
 const path = require("path");
 const { v4 } = require("uuid");
-// const { uuid } = require("uuidv4");
 
 const contactsPath = path.join(__dirname, "db/contacts.json");
 
