@@ -12,12 +12,6 @@
     "phone": "(294) 840-6685"
   },
   {
-    "id": "3",
-    "name": "Kennedy Lane",
-    "email": "mattis.Cras@nonenimMauris.net",
-    "phone": "(542) 451-7038"
-  },
-  {
     "id": "4",
     "name": "Wylie Pope",
     "email": "est@utquamvel.net",
@@ -64,5 +58,11 @@
     "name": "Kate",
     "email": "err@mail.com",
     "phone": "423-2452-34"
+  },
+  {
+    "id": "90478587-1a0f-4b42-9926-bd67ac81624a",
+    "name": "Olga",
+    "email": "olya@mail.com",
+    "phone": "879-098-99"
   }
 ]
